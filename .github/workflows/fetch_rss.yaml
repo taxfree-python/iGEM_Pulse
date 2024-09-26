@@ -1,0 +1,36 @@
+name: Fetch RSS Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 毎時0分に実行（必要に応じて変更可能）
+  workflow_dispatch:  # 手動で実行可能にする
+
+jobs:
+  uv-example:
+    name: Python Environment Setup
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v2
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install the project dependencies
+        run: uv sync --all-extras --dev
+
+      - name: Run fetch.py
+        run: uv run python fetch.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add rss_data.csv
+          git commit -m "Update RSS data" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 自動的に提供されるGitHubのトークン
