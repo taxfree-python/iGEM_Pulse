@@ -8,6 +8,7 @@ dependencies = [
     "certifi>=2024.8.30",
     "feedparser>=6.0.11",
     "matplotlib>=3.9.2",
+    "pandas>=2.2.3",
     "plotly>=5.24.1",
     "ruff>=0.6.8",
 ]
