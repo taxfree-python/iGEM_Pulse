@@ -1109,3 +1109,7 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-27:594131",BUCT-China,main,True,https://gitlab.igem.org/2024/software-tools/buct-china/,2024-09-27T04:25:44Z
 "tag:gitlab.igem.org,2024-09-27:594132",XMU-China,main,False,https://gitlab.igem.org/2024/xmu-china/,2024-09-27T04:26:29Z
 "tag:gitlab.igem.org,2024-09-27:594133",KCIS-Xiugang-Taipei,mybranch11,False,https://gitlab.igem.org/2024/kcis-xiugang-taipei/,2024-09-27T04:26:53Z
+"tag:gitlab.igem.org,2024-09-27:594134",RBHS-San-Diego,main,False,https://gitlab.igem.org/2024/rbhs-san-diego/,2024-09-27T04:27:37Z
+"tag:gitlab.igem.org,2024-09-27:594136",Oxford,main,False,https://gitlab.igem.org/2024/oxford/,2024-09-27T04:28:52Z
+"tag:gitlab.igem.org,2024-09-27:594137",KCIS-Xiugang-Taipei,nini3,False,https://gitlab.igem.org/2024/kcis-xiugang-taipei/,2024-09-27T04:28:59Z
+"tag:gitlab.igem.org,2024-09-27:594142",XMU-China,main,False,https://gitlab.igem.org/2024/xmu-china/,2024-09-27T04:29:28Z
