@@ -5364,3 +5364,5 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-27:599102",NUDT-CHINA,main,False,https://gitlab.igem.org/2024/nudt-china/,2024-09-27T23:52:41Z
 "tag:gitlab.igem.org,2024-09-27:599103",SDU-Denmark,main,False,https://gitlab.igem.org/2024/sdu-denmark/,2024-09-27T23:53:10Z
 "tag:gitlab.igem.org,2024-09-27:599104",UMA-MALAGA,main,False,https://gitlab.igem.org/2024/uma-malaga/,2024-09-27T23:53:42Z
+"tag:gitlab.igem.org,2024-09-27:599105",McGill,main,True,https://gitlab.igem.org/2024/software-tools/mcgill/,2024-09-27T23:54:14Z
+"tag:gitlab.igem.org,2024-09-27:599106",Waterloo,main,False,https://gitlab.igem.org/2024/waterloo/,2024-09-27T23:54:42Z
