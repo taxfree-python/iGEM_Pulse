@@ -1576,3 +1576,9 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-27:594718",HS-Beta,main,False,https://gitlab.igem.org/2024/hs-beta/,2024-09-27T06:58:24Z
 "tag:gitlab.igem.org,2024-09-27:594719",AFCM-Egypt,main,False,https://gitlab.igem.org/2024/afcm-egypt/,2024-09-27T06:58:35Z
 "tag:gitlab.igem.org,2024-09-27:594720",DBHS-CA,main,False,https://gitlab.igem.org/2024/dbhs-ca/,2024-09-27T06:58:45Z
+"tag:gitlab.igem.org,2024-09-27:594721",BUCT-China,main,True,https://gitlab.igem.org/2024/software-tools/buct-china/,2024-09-27T06:58:54Z
+"tag:gitlab.igem.org,2024-09-27:594722",HBUT-China,main,False,https://gitlab.igem.org/2024/hbut-china/,2024-09-27T06:59:13Z
+"tag:gitlab.igem.org,2024-09-27:594723",HUBU-4-CHN,main,False,https://gitlab.igem.org/2024/hubu-4-chn/,2024-09-27T06:59:15Z
+"tag:gitlab.igem.org,2024-09-27:594724",DBHS-CA,main,False,https://gitlab.igem.org/2024/dbhs-ca/,2024-09-27T07:00:18Z
+"tag:gitlab.igem.org,2024-09-27:594725",AFCM-Egypt,main,False,https://gitlab.igem.org/2024/afcm-egypt/,2024-09-27T07:01:13Z
+"tag:gitlab.igem.org,2024-09-27:594726",UnivLyon1-INSALyon,main,False,https://gitlab.igem.org/2024/univlyon1-insalyon/,2024-09-27T07:01:48Z
