@@ -11399,3 +11399,8 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-29:606421",MSP-Maastricht,main,False,https://gitlab.igem.org/2024/msp-maastricht/,2024-09-29T00:35:34Z
 "tag:gitlab.igem.org,2024-09-29:606422",UMA-MALAGA,main,False,https://gitlab.igem.org/2024/uma-malaga/,2024-09-29T00:35:40Z
 "tag:gitlab.igem.org,2024-09-29:606488",UMA-MALAGA,main,False,https://gitlab.igem.org/2024/uma-malaga/,2024-09-29T00:36:33Z
+"tag:gitlab.igem.org,2024-09-29:606489",Athens,main,True,https://gitlab.igem.org/2024/software-tools/athens/,2024-09-29T00:36:50Z
+"tag:gitlab.igem.org,2024-09-29:606490",Tec-Chihuahua,tre,False,https://gitlab.igem.org/2024/tec-chihuahua/,2024-09-29T00:36:52Z
+"tag:gitlab.igem.org,2024-09-29:606491",UMA-MALAGA,main,False,https://gitlab.igem.org/2024/uma-malaga/,2024-09-29T00:36:52Z
+"tag:gitlab.igem.org,2024-09-29:606496",UCopenhagen,fabio_main,False,https://gitlab.igem.org/2024/ucopenhagen/,2024-09-29T00:38:09Z
+"tag:gitlab.igem.org,2024-09-29:606497",iZJU-China,main,False,https://gitlab.igem.org/2024/izju-china/,2024-09-29T00:38:52Z
