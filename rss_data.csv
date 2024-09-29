@@ -19308,3 +19308,16 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-29:615396",HKPOLYU,main,False,https://gitlab.igem.org/2024/hkpolyu/,2024-09-29T22:32:39Z
 "tag:gitlab.igem.org,2024-09-29:615399",IEA,main,False,https://gitlab.igem.org/2024/iea/,2024-09-29T22:32:51Z
 "tag:gitlab.igem.org,2024-09-29:615400",MSP-Maastricht,main,False,https://gitlab.igem.org/2024/msp-maastricht/,2024-09-29T22:33:31Z
+"tag:gitlab.igem.org,2024-09-29:615401",TUM-Straubing,main,False,https://gitlab.igem.org/2024/tum-straubing/,2024-09-29T22:33:39Z
+"tag:gitlab.igem.org,2024-09-29:615402",BOKU-Vienna,main,False,https://gitlab.igem.org/2024/boku-vienna/,2024-09-29T22:33:42Z
+"tag:gitlab.igem.org,2024-09-29:615403",Marburg,main,False,https://gitlab.igem.org/2024/marburg/,2024-09-29T22:33:45Z
+"tag:gitlab.igem.org,2024-09-29:615404",KhanLabSchool,main,False,https://gitlab.igem.org/2024/khanlabschool/,2024-09-29T22:34:00Z
+"tag:gitlab.igem.org,2024-09-29:615405",HKPOLYU,main,False,https://gitlab.igem.org/2024/hkpolyu/,2024-09-29T22:34:12Z
+"tag:gitlab.igem.org,2024-09-29:615406",BOKU-Vienna,main,False,https://gitlab.igem.org/2024/boku-vienna/,2024-09-29T22:34:21Z
+"tag:gitlab.igem.org,2024-09-29:615407",DKU,main,False,https://gitlab.igem.org/2024/dku/,2024-09-29T22:34:37Z
+"tag:gitlab.igem.org,2024-09-29:615408",BOKU-Vienna,main,False,https://gitlab.igem.org/2024/boku-vienna/,2024-09-29T22:35:18Z
+"tag:gitlab.igem.org,2024-09-29:615409",Oneonta,main,False,https://gitlab.igem.org/2024/oneonta/,2024-09-29T22:35:40Z
+"tag:gitlab.igem.org,2024-09-29:615410",TU-Dresden,main,False,https://gitlab.igem.org/2024/tu-dresden/,2024-09-29T22:36:05Z
+"tag:gitlab.igem.org,2024-09-29:615411",JLU-NBBMS,main,False,https://gitlab.igem.org/2024/jlu-nbbms/,2024-09-29T22:36:12Z
+"tag:gitlab.igem.org,2024-09-29:615412",UTokyo,main,False,https://gitlab.igem.org/2024/utokyo/,2024-09-29T22:36:18Z
+"tag:gitlab.igem.org,2024-09-29:615413",BOKU-Vienna,main,False,https://gitlab.igem.org/2024/boku-vienna/,2024-09-29T22:36:20Z
