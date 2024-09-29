@@ -12158,3 +12158,12 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-29:607325",GEMS-Taiwan,main,False,https://gitlab.igem.org/2024/gems-taiwan/,2024-09-29T05:10:28Z
 "tag:gitlab.igem.org,2024-09-29:607326",Tsinghua,main,False,https://gitlab.igem.org/2024/tsinghua/,2024-09-29T05:10:32Z
 "tag:gitlab.igem.org,2024-09-29:607327",Sydney-Australia,main,False,https://gitlab.igem.org/2024/sydney-australia/,2024-09-29T05:10:40Z
+"tag:gitlab.igem.org,2024-09-29:607328",LINKS-China,main,False,https://gitlab.igem.org/2024/links-china/,2024-09-29T05:10:58Z
+"tag:gitlab.igem.org,2024-09-29:607329",Tsinghua,main,False,https://gitlab.igem.org/2024/tsinghua/,2024-09-29T05:11:06Z
+"tag:gitlab.igem.org,2024-09-29:607330",HunanU,main,False,https://gitlab.igem.org/2024/hunanu/,2024-09-29T05:11:21Z
+"tag:gitlab.igem.org,2024-09-29:607331",IEA,main,False,https://gitlab.igem.org/2024/iea/,2024-09-29T05:11:33Z
+"tag:gitlab.igem.org,2024-09-29:607332",McMaster-Canada,main,False,https://gitlab.igem.org/2024/mcmaster-canada/,2024-09-29T05:12:08Z
+"tag:gitlab.igem.org,2024-09-29:607333",HongKong-JSS,main,True,https://gitlab.igem.org/2024/software-tools/hongkong-jss/,2024-09-29T05:12:15Z
+"tag:gitlab.igem.org,2024-09-29:607334",Princeton,main,False,https://gitlab.igem.org/2024/princeton/,2024-09-29T05:13:23Z
+"tag:gitlab.igem.org,2024-09-29:607335",NPU-CHINA,main,False,https://gitlab.igem.org/2024/npu-china/,2024-09-29T05:13:32Z
+"tag:gitlab.igem.org,2024-09-29:607337",DBHS-CA,main,False,https://gitlab.igem.org/2024/dbhs-ca/,2024-09-29T05:13:42Z
