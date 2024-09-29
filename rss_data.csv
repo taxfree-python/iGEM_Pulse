@@ -19321,3 +19321,16 @@ id,team,branch_name,isSoftware,link,updated
 "tag:gitlab.igem.org,2024-09-29:615411",JLU-NBBMS,main,False,https://gitlab.igem.org/2024/jlu-nbbms/,2024-09-29T22:36:12Z
 "tag:gitlab.igem.org,2024-09-29:615412",UTokyo,main,False,https://gitlab.igem.org/2024/utokyo/,2024-09-29T22:36:18Z
 "tag:gitlab.igem.org,2024-09-29:615413",BOKU-Vienna,main,False,https://gitlab.igem.org/2024/boku-vienna/,2024-09-29T22:36:20Z
+"tag:gitlab.igem.org,2024-09-29:615414",TU-Delft,main,False,https://gitlab.igem.org/2024/tu-delft/,2024-09-29T22:36:43Z
+"tag:gitlab.igem.org,2024-09-29:615415",HKPOLYU,main,False,https://gitlab.igem.org/2024/hkpolyu/,2024-09-29T22:36:52Z
+"tag:gitlab.igem.org,2024-09-29:615416",Waseda-Tokyo,main,False,https://gitlab.igem.org/2024/waseda-tokyo/,2024-09-29T22:36:58Z
+"tag:gitlab.igem.org,2024-09-29:615417",KhanLabSchool,main,False,https://gitlab.igem.org/2024/khanlabschool/,2024-09-29T22:37:08Z
+"tag:gitlab.igem.org,2024-09-29:615418",Exeter,main,False,https://gitlab.igem.org/2024/exeter/,2024-09-29T22:37:15Z
+"tag:gitlab.igem.org,2024-09-29:615420",CNPEM-BRAZIL,main,False,https://gitlab.igem.org/2024/cnpem-brazil/,2024-09-29T22:37:28Z
+"tag:gitlab.igem.org,2024-09-29:615422",BOKU-Vienna,main,False,https://gitlab.igem.org/2024/boku-vienna/,2024-09-29T22:38:02Z
+"tag:gitlab.igem.org,2024-09-29:615423",HKPOLYU,main,False,https://gitlab.igem.org/2024/hkpolyu/,2024-09-29T22:38:17Z
+"tag:gitlab.igem.org,2024-09-29:615425",IEA,main,False,https://gitlab.igem.org/2024/iea/,2024-09-29T22:38:20Z
+"tag:gitlab.igem.org,2024-09-29:615426",KhanLabSchool,main,False,https://gitlab.igem.org/2024/khanlabschool/,2024-09-29T22:38:56Z
+"tag:gitlab.igem.org,2024-09-29:615427",Exeter,main,False,https://gitlab.igem.org/2024/exeter/,2024-09-29T22:39:03Z
+"tag:gitlab.igem.org,2024-09-29:615428",MSP-Maastricht,main,False,https://gitlab.igem.org/2024/msp-maastricht/,2024-09-29T22:39:09Z
+"tag:gitlab.igem.org,2024-09-29:615429",PennState,main,False,https://gitlab.igem.org/2024/pennstate/,2024-09-29T22:39:22Z
